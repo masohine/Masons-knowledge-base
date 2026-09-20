@@ -8,3 +8,6 @@ Explore the history, design, and uses of the accessories that help golfers carry
 - [[Golf Shoes]]
 - [[Club Cleaning Tools]]
 - [[Golf Bags]]
+
+
+![[FS_Golfers_Guide_1.pdf]]
