@@ -60,8 +60,8 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Irons/history-of-irons|The Development of Golf Irons]]
-- [[Irons/blades-and-cavity-backs|Blade Irons and Cavity-Back Irons]]
+- [[irons/history-of-irons|The Development of Golf Irons]]
+- [[irons/blades-and-cavity-backs|Blade Irons and Cavity-Back Irons]]
 
 ## Forgiveness in Iron Design
 
@@ -69,8 +69,8 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Irons/history-of-irons|The Development of Golf Irons]]
-- [[Irons/blades-and-cavity-backs|Blade Irons and Cavity-Back Irons]]
+- [[irons/history-of-irons|The Development of Golf Irons]]
+- [[irons/blades-and-cavity-backs|Blade Irons and Cavity-Back Irons]]
 
 ## Forging and Casting
 
@@ -78,7 +78,7 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Irons/forged-and-cast-irons|Forged and Cast Irons]]
+- [[irons/forged-and-cast-irons|Forged and Cast Irons]]
 
 ## Iron Lofts and Set Specifications
 
@@ -86,7 +86,7 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Irons/long-mid-and-short-irons|Long, Mid, and Short Irons]]
+- [[irons/long-mid-and-short-irons|Long, Mid, and Short Irons]]
 
 ## Club Fitting Measurements
 
@@ -94,7 +94,7 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Irons/iron-fitting|Iron Fitting and the Move Toward Personalization]]
+- [[irons/iron-fitting|Iron Fitting and the Move Toward Personalization]]
 
 ## The Anser Story
 
@@ -102,7 +102,7 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Putter/history-of-putters|Putter History and the Anser Design]]
+- [[putter/history-of-putters|Putter History and the Anser Design]]
 
 ## Putter Head Shapes
 
@@ -110,7 +110,7 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Putter/blades-and-mallets|Blade and Mallet Putters]]
+- [[putter/blades-and-mallets|Blade and Mallet Putters]]
 
 ## Putter Necks and Alignment
 
@@ -118,8 +118,8 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Putter/blades-and-mallets|Blade and Mallet Putters]]
-- [[Putter/alignment-and-putter-necks|Alignment Aids and Putter Necks]]
+- [[putter/blades-and-mallets|Blade and Mallet Putters]]
+- [[putter/alignment-and-putter-necks|Alignment Aids and Putter Necks]]
 
 ## Milling and Face Inserts
 
@@ -127,7 +127,7 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Putter/putter-faces-and-materials|Putter Faces, Milling, and Inserts]]
+- [[putter/putter-faces-and-materials|Putter Faces, Milling, and Inserts]]
 
 ## Putter Fit and Setup
 
@@ -135,7 +135,7 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Putter/putter-fitting-and-distance-control|Putter Fitting and Distance Control]]
+- [[putter/putter-fitting-and-distance-control|Putter Fitting and Distance Control]]
 
 ## Sarazen and the Sand Wedge
 
@@ -143,7 +143,7 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Wedges/history-of-wedges|Wedge History and the Sand Wedge]]
+- [[wedges/history-of-wedges|Wedge History and the Sand Wedge]]
 
 ## Wedge Loft and Distance Gaps
 
@@ -151,7 +151,7 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Wedges/wedge-types-and-lofts|Pitching, Gap, Sand, and Lob Wedges]]
+- [[wedges/wedge-types-and-lofts|Pitching, Gap, Sand, and Lob Wedges]]
 
 ## Wedge Bounce
 
@@ -159,8 +159,8 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Wedges/history-of-wedges|Wedge History and the Sand Wedge]]
-- [[Wedges/bounce-and-grind|Understanding Wedge Bounce and Grind]]
+- [[wedges/history-of-wedges|Wedge History and the Sand Wedge]]
+- [[wedges/bounce-and-grind|Understanding Wedge Bounce and Grind]]
 
 ## Wedge Sole Grinds
 
@@ -168,8 +168,8 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Wedges/bounce-and-grind|Understanding Wedge Bounce and Grind]]
-- [[Wedges/short-game-shots|Wedges and Short-Game Decisions]]
+- [[wedges/bounce-and-grind|Understanding Wedge Bounce and Grind]]
+- [[wedges/short-game-shots|Wedges and Short-Game Decisions]]
 
 ## Grooves and Spin
 
@@ -177,7 +177,7 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Wedges/grooves-and-spin|Wedge Grooves and Spin Control]]
+- [[wedges/grooves-and-spin|Wedge Grooves and Spin Control]]
 
 ## Original Diagrams
 

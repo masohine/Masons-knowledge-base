@@ -21,6 +21,7 @@ Start with the sand wedge story, then explore loft, bounce, grind, grooves, and 
 
 ## Related Categories
 
+* [[accessories/index|Accessories]]
 - [[fairway-woods/index|Fairway Woods]]
 - [[irons/index|Irons]]
 - [[putter/index|Putter]]
