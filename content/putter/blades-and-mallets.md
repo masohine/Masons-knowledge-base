@@ -3,7 +3,6 @@ title: "Blade and Mallet Putters"
 date: 2026-10-01
 ---
 
-# Blade and Mallet Putters
 
 [[index|Home]] · [[Putter/index|Putter]] · [[references|References]]
 

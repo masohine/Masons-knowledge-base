@@ -2,7 +2,6 @@
 title: Fairway Woods
 ---
 
-# Fairway Woods
 
 [[index|Home]] · [[references|References]]
 

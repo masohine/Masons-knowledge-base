@@ -3,7 +3,6 @@ title: "The History of Fairway Woods"
 date: 2026-10-01
 ---
 
-# The History of Fairway Woods
 
 [[index|Home]] · [[fairway-woods/index|Fairway Woods]] · [[references|References]]
 

@@ -1,7 +1,7 @@
 ---
 title: The Wedge
 ---
-# Wedges
+
 
 [[index|Home]] · [[references|References]]
 

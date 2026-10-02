@@ -3,7 +3,6 @@ title: "Wedges and Short-Game Decisions"
 date: 2026-10-01
 ---
 
-# Wedges and Short-Game Decisions
 
 [[index|Home]] · [[Wedges/index|Wedges]] · [[references|References]]
 

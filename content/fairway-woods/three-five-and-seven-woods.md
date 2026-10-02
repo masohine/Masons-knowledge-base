@@ -3,7 +3,6 @@ title: "Understanding 3-Woods, 5-Woods, and 7-Woods"
 date: 2026-10-01
 ---
 
-# Understanding 3-Woods, 5-Woods, and 7-Woods
 
 [[index|Home]] · [[fairway-woods/index|Fairway Woods]] · [[references|References]]
 

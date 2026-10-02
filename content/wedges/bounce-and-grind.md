@@ -3,7 +3,6 @@ title: "Understanding Wedge Bounce and Grind"
 date: 2026-10-01
 ---
 
-# Understanding Wedge Bounce and Grind
 
 [[index|Home]] · [[Wedges/index|Wedges]] · [[references|References]]
 

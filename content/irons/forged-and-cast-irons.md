@@ -3,7 +3,6 @@ title: "Forged and Cast Irons"
 date: 2026-10-01
 ---
 
-# Forged and Cast Irons
 
 [[index|Home]] · [[Irons/index|Irons]] · [[references|References]]
 

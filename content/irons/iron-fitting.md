@@ -3,7 +3,6 @@ title: "Iron Fitting and the Move Toward Personalization"
 date: 2026-10-01
 ---
 
-# Iron Fitting and the Move Toward Personalization
 
 [[index|Home]] · [[Irons/index|Irons]] · [[references|References]]
 

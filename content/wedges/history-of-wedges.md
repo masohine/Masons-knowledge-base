@@ -3,7 +3,6 @@ title: "Wedge History and the Sand Wedge"
 date: 2026-10-01
 ---
 
-# Wedge History and the Sand Wedge
 
 [[index|Home]] · [[Wedges/index|Wedges]] · [[references|References]]
 

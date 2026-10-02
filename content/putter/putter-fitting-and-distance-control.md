@@ -3,7 +3,6 @@ title: "Putter Fitting and Distance Control"
 date: 2026-10-01
 ---
 
-# Putter Fitting and Distance Control
 
 [[index|Home]] · [[Putter/index|Putter]] · [[references|References]]
 

@@ -3,7 +3,6 @@ title: "Pitching, Gap, Sand, and Lob Wedges"
 date: 2026-10-01
 ---
 
-# Pitching, Gap, Sand, and Lob Wedges
 
 [[index|Home]] · [[Wedges/index|Wedges]] · [[references|References]]
 

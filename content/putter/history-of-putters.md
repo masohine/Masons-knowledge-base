@@ -3,7 +3,6 @@ title: "Putter History and the Anser Design"
 date: 2026-10-01
 ---
 
-# Putter History and the Anser Design
 
 [[index|Home]] · [[Putter/index|Putter]] · [[references|References]]
 

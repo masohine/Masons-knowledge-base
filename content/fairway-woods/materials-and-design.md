@@ -3,7 +3,6 @@ title: "How Fairway Wood Materials Changed"
 date: 2026-10-01
 ---
 
-# How Fairway Wood Materials Changed
 
 [[index|Home]] · [[fairway-woods/index|Fairway Woods]] · [[references|References]]
 

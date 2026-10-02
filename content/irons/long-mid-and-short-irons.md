@@ -3,7 +3,6 @@ title: "Long, Mid, and Short Irons"
 date: 2026-10-01
 ---
 
-# Long, Mid, and Short Irons
 
 [[index|Home]] · [[Irons/index|Irons]] · [[references|References]]
 

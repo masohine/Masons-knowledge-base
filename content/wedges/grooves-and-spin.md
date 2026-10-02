@@ -3,7 +3,6 @@ title: "Wedge Grooves and Spin Control"
 date: 2026-10-01
 ---
 
-# Wedge Grooves and Spin Control
 
 [[index|Home]] · [[Wedges/index|Wedges]] · [[references|References]]
 

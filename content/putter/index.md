@@ -1,7 +1,6 @@
 ---
 title: The Putter
 ---
-# Putter
 
 [[index|Home]] · [[references|References]]
 

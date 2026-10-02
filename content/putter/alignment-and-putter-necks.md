@@ -3,8 +3,6 @@ title: "Alignment Aids and Putter Necks"
 date: 2026-10-01
 ---
 
-# Alignment Aids and Putter Necks
-
 [[index|Home]] · [[Putter/index|Putter]] · [[references|References]]
 
 ## Helping the Golfer Aim

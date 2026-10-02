@@ -1,7 +1,6 @@
 ---
 title: The Iron
 ---
-# Irons
 
 [[index|Home]] · [[references|References]]
 

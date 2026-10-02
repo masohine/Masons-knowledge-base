@@ -3,7 +3,6 @@ title: Fairway Woods
 date: 2026-10-01
 ---
 
-# Fairway Woods on the Course
 
 [[index|Home]] · [[fairway-woods/index|Fairway Woods]] · [[references|References]]
 

@@ -3,7 +3,6 @@ title: "The Development of Golf Irons"
 date: 2026-10-01
 ---
 
-# The Development of Golf Irons
 
 [[index|Home]] · [[Irons/index|Irons]] · [[references|References]]
 

@@ -3,7 +3,6 @@ title: "Putter Faces, Milling, and Inserts"
 date: 2026-10-01
 ---
 
-# Putter Faces, Milling, and Inserts
 
 [[index|Home]] · [[Putter/index|Putter]] · [[references|References]]
 

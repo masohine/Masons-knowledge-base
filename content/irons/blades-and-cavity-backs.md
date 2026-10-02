@@ -3,7 +3,6 @@ title: "Blade Irons and Cavity-Back Irons"
 date: 2026-10-01
 ---
 
-# Blade Irons and Cavity-Back Irons
 
 [[index|Home]] · [[Irons/index|Irons]] · [[references|References]]
 

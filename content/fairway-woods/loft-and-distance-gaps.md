@@ -3,7 +3,6 @@ title: "Fairway Wood Loft and Distance Gaps"
 date: 2026-10-01
 ---
 
-# Fairway Wood Loft and Distance Gaps
 
 [[index|Home]] · [[fairway-woods/index|Fairway Woods]] · [[references|References]]
 
