@@ -5,7 +5,7 @@ date: 2026-10-01
 
 # How Fairway Wood Materials Changed
 
-[[index|Home]] · [[Fairway Woods/index|Fairway Woods]] · [[references|References]]
+[[index|Home]] · [[fairway-woods/index|Fairway Woods]] · [[references|References]]
 
 ## Beyond the Wooden Head
 
@@ -29,7 +29,7 @@ This original takeaway also connects to cavity-back irons and mallet putters. Ac
 
 - [[Irons/blades-and-cavity-backs|Blade Irons and Cavity-Back Irons]]
 - [[Putter/blades-and-mallets|Blade and Mallet Putters]]
-- [[Fairway Woods/history-of-fairway-woods|The History of Fairway Woods]]
+- [[history-of-fairway-woods|The History of Fairway Woods]]
 
 ## Sources
 

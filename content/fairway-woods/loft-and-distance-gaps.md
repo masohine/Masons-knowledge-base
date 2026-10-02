@@ -5,7 +5,7 @@ date: 2026-10-01
 
 # Fairway Wood Loft and Distance Gaps
 
-[[index|Home]] · [[Fairway Woods/index|Fairway Woods]] · [[references|References]]
+[[index|Home]] · [[fairway-woods/index|Fairway Woods]] · [[references|References]]
 
 ## Give Each Club a Purpose
 
@@ -30,7 +30,7 @@ This approach makes equipment history practical: increasingly specialized design
 
 - [[Irons/long-mid-and-short-irons|Long, Mid, and Short Irons]]
 - [[Wedges/wedge-types-and-lofts|Pitching, Gap, Sand, and Lob Wedges]]
-- [[Fairway Woods/three-five-and-seven-woods|Understanding 3-Woods, 5-Woods, and 7-Woods]]
+- [[three-five-and-seven-woods|Understanding 3-Woods, 5-Woods, and 7-Woods]]
 
 ## Sources
 

@@ -15,8 +15,8 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Fairway Woods/history-of-fairway-woods|The History of Fairway Woods]]
-- [[Fairway Woods/materials-and-design|How Fairway Wood Materials Changed]]
+- [[history-of-fairway-woods|The History of Fairway Woods]]
+- [[materials-and-design|How Fairway Wood Materials Changed]]
 
 ## TaylorMade Metalwood History
 
@@ -24,7 +24,7 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Fairway Woods/history-of-fairway-woods|The History of Fairway Woods]]
+- [[history-of-fairway-woods|The History of Fairway Woods]]
 
 ## Fairway Wood Loft Examples
 
@@ -32,8 +32,8 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Fairway Woods/three-five-and-seven-woods|Understanding 3-Woods, 5-Woods, and 7-Woods]]
-- [[Fairway Woods/loft-and-distance-gaps|Fairway Wood Loft and Distance Gaps]]
+- [[three-five-and-seven-woods|Understanding 3-Woods, 5-Woods, and 7-Woods]]
+- [[loft-and-distance-gaps|Fairway Wood Loft and Distance Gaps]]
 
 ## Fairway Wood Construction
 
@@ -41,8 +41,8 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Fairway Woods/materials-and-design|How Fairway Wood Materials Changed]]
-- [[Fairway Woods/fairway-woods-on-the-course|Fairway Woods on the Course]]
+- [[materials-and-design|How Fairway Wood Materials Changed]]
+- [[fairway-woods-on-the-course|Fairway Woods on the Course]]
 
 ## Higher Launching Fairway Woods
 
@@ -50,9 +50,9 @@ Sources used in the four club categories are listed below. Numbered markers in e
 
 **Cited on:**
 
-- [[Fairway Woods/three-five-and-seven-woods|Understanding 3-Woods, 5-Woods, and 7-Woods]]
-- [[Fairway Woods/loft-and-distance-gaps|Fairway Wood Loft and Distance Gaps]]
-- [[Fairway Woods/fairway-woods-on-the-course|Fairway Woods on the Course]]
+- [[three-five-and-seven-woods|Understanding 3-Woods, 5-Woods, and 7-Woods]]
+- [[loft-and-distance-gaps|Fairway Wood Loft and Distance Gaps]]
+- [[fairway-woods-on-the-course|Fairway Woods on the Course]]
 
 ## PING Iron Development
 

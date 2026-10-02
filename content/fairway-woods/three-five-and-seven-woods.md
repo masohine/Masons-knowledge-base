@@ -5,7 +5,7 @@ date: 2026-10-01
 
 # Understanding 3-Woods, 5-Woods, and 7-Woods
 
-[[index|Home]] · [[Fairway Woods/index|Fairway Woods]] · [[references|References]]
+[[index|Home]] · [[fairway-woods/index|Fairway Woods]] · [[references|References]]
 
 ## What the Numbers Tell You
 
@@ -29,6 +29,6 @@ These are starting points for comparison, not fixed distance promises. The best 
 
 ## Keep Exploring
 
-- [[Fairway Woods/loft-and-distance-gaps|Fairway Wood Loft and Distance Gaps]]
+- [[loft-and-distance-gaps|Fairway Wood Loft and Distance Gaps]]
 - [[Irons/long-mid-and-short-irons|Long, Mid, and Short Irons]]
 

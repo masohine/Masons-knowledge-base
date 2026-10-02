@@ -5,7 +5,7 @@ date: 2026-10-01
 
 # Fairway Woods on the Course
 
-[[index|Home]] · [[Fairway Woods/index|Fairway Woods]] · [[references|References]]
+[[index|Home]] · [[fairway-woods/index|Fairway Woods]] · [[references|References]]
 
 ## More Than a Second-Shot Club
 
@@ -30,8 +30,8 @@ The category's history is therefore about versatility as well as distance. Newer
 
 ## Keep Exploring
 
-- [[Fairway Woods/loft-and-distance-gaps|Fairway Wood Loft and Distance Gaps]]
-- [[Fairway Woods/materials-and-design|How Fairway Wood Materials Changed]]
+- [[loft-and-distance-gaps|Fairway Wood Loft and Distance Gaps]]
+- [[materials-and-design|How Fairway Wood Materials Changed]]
 - [[Irons/long-mid-and-short-irons|Long, Mid, and Short Irons]]
 
 ## Sources

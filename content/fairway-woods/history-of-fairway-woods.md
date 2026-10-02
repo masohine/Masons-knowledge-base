@@ -5,7 +5,7 @@ date: 2026-10-01
 
 # The History of Fairway Woods
 
-[[index|Home]] · [[Fairway Woods/index|Fairway Woods]] · [[references|References]]
+[[index|Home]] · [[fairway-woods/index|Fairway Woods]] · [[references|References]]
 
 ## Why They Are Still Called Woods
 
@@ -33,8 +33,8 @@ These questions connect the original wooden clubs to later engineering changes w
 
 ## Keep Exploring
 
-- [[Fairway Woods/materials-and-design|How Fairway Wood Materials Changed]]
-- [[Fairway Woods/three-five-and-seven-woods|Understanding 3-Woods, 5-Woods, and 7-Woods]]
+- [[materials-and-design|How Fairway Wood Materials Changed]]
+- [[three-five-and-seven-woods|Understanding 3-Woods, 5-Woods, and 7-Woods]]
 
 ## Sources
 

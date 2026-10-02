@@ -5,7 +5,7 @@ Golf clubs have drastically changed throughout the years and this page will give
 
 "Main Categories"
 * [[accessories/index|Golf Accessories]]
-* [[Fairway Woods/index|Fairway Woods]]
+* [[fairway-woods/index|Fairway Woods]]
 * [[irons/index|The Iron]]
 * [[putter/index|The Putter]]
 * [[wedges/index|The Wedge]]
