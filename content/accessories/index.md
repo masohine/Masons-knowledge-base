@@ -1,6 +1,8 @@
 ---
 title: Golf Accessories
 ---
+[[index|Home]] · [[references|References]]
+
 Explore the history, design, and uses of the accessories that help golfers carry, maintain, and effectively use their equipment. 
 
 - [[Rangefinders]]
