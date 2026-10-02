@@ -11,7 +11,7 @@ date: 2026-10-01
 
 Fairway woods kept their original name even after the materials changed. Earlier heads were made from wood, including persimmon and laminated maple. Modern versions generally use hollow metal or composite construction. The name now describes a family of clubs rather than what every head is made from. This is a useful reminder that golf equipment often carries its history in its vocabulary. [1]
 
-![Diagram contrasting earlier wooden heads with later hollow metal or composite heads.](assets/materials-timeline.svg)
+
 
 *Original overview of changing materials; the transition happened over time, with older and newer designs overlapping.*
 
