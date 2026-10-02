@@ -9,9 +9,13 @@ Follow the development of iron design, from perimeter weighting to personalized 
 ## Explore This Category
 
 1. [[Irons/history-of-irons|The Development of Golf Irons]]
+
 2. [[Irons/blades-and-cavity-backs|Blade Irons and Cavity-Back Irons]]
+
 3. [[Irons/forged-and-cast-irons|Forged and Cast Irons]]
+
 4. [[Irons/long-mid-and-short-irons|Long, Mid, and Short Irons]]
+
 5. [[Irons/iron-fitting|Iron Fitting and the Move Toward Personalization]]
 
 ## Related Categories
