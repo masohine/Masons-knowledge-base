@@ -22,5 +22,5 @@ Follow the development of iron design, from perimeter weighting to personalized 
 
 * [[accessories/index|Accessories]]
 - [[fairway-woods/index|Fairway Woods]]
-- [[Putter/index|Putter]]
-- [[Wedges/index|Wedges]]
+- [[putter/index|Putter]]
+- [[wedges/index|Wedges]]

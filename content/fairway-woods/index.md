@@ -21,6 +21,7 @@ Explore the shift from wooden heads to modern construction, then see how loft, l
 
 ## Related Categories
 
-- [[Irons/index|Irons]]
-- [[Putter/index|Putter]]
-- [[Wedges/index|Wedges]]
+* [[accessories/index|Accessories]]
+- [[irons/index|Irons]]
+- [[putter/index|Putter]]
+- [[wedges/index|Wedges]]

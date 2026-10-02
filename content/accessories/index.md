@@ -13,3 +13,11 @@ Explore the history, design, and uses of the accessories that help golfers carry
 
 
 ![[FS_Golfers_Guide_1.pdf]]
+
+
+### Related Categories
+
+- [[fairway-woods/index|Fairway Woods]]
+- [[irons/index|Irons]]
+- [[wedges/index|Wedges]]
+* [[irons/index|Irons]]

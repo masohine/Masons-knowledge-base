@@ -22,6 +22,6 @@ Explore an influential putter design and the choices behind head shape, alignmen
 
 * [[accessories/index|Accessories]]
 - [[fairway-woods/index|Fairway Woods]]
-- [[Irons/index|Irons]]
-- [[Wedges/index|Wedges]]
+- [[irons/index|Irons]]
+- [[wedges/index|Wedges]]
 
